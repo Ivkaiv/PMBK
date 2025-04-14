@@ -1,0 +1,7 @@
+{
+    "name": "PMB Controller Component",
+    "version": "1.0.0",
+    "codeowners": ["@your_github_username"],
+    "requirements": [],
+    "dependencies": ["uart", "api", "sensor"]
+  }
